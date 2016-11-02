@@ -62,6 +62,7 @@
   },
   "dependencies": {
     "auth0-lock": "^10.2.2",
+    "auth0-lock-passwordless": "^2.2.3",
     "bootstrap": "^3.3.5",
     "classnames": "^2.2.5",
     "jwt-decode": "^2.0.1",
